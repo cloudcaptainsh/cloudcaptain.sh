@@ -4,6 +4,11 @@ menu: releasenotes
 subtitle: 'Release Notes for the CloudCaptain Client'
 ---
 
+Version 1.37.0 (2026-01-07)
+---------------------------
+- #309 OpenJDK 25 support
+- Dropped support for the Gradle plugin
+
 Version 1.36.2 (2024-05-07)
 ---------------------------
 - OpenJDK 21 support
